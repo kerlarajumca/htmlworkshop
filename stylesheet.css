@@ -1,0 +1,14 @@
+label{color:purple}
+
+img{
+    border:2px solid blue;
+    border-radius:50%;
+}
+.un{
+    width:400px;
+    height:30px;
+    border:2px solid green;
+    color:red;
+    font-size:20px;
+    border-radius:10px;
+}
